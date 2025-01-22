@@ -8,4 +8,5 @@
  Custom printed & machine cut graphics
  2mm Clear Acrylic Cover/graphic protector
  Rubber Non Slip feet
-https://github.com/incursion64/GP2040-CE-OpenStick/blob/main/z_readme%20assets/IMG_3226.jpg
+
+![IMG_3226](https://github.com/user-attachments/assets/32d7ea27-ac24-469f-add6-c9e48e2c94af)
