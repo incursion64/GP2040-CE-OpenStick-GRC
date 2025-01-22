@@ -11,7 +11,8 @@
 
 ![IMG_3226](https://github.com/user-attachments/assets/32d7ea27-ac24-469f-add6-c9e48e2c94af)
 
-![IMG_3226](https://github.com/user-attachments/assets/2f73995a-600b-44e5-b87f-f7fe57c876eb)
+![IMG_3221](https://github.com/user-attachments/assets/0885c760-1203-4960-a1a9-43355834fba7)
+
 
 Included in this repository are all necessary files to process the material.
  - 2D DXF Files for laser cut metal & plastic cover
