@@ -9,4 +9,4 @@
  2mm Clear Acrylic Cover/graphic protector
  Rubber Non Slip feet
 
-![image](https://github.com/incursion64/GP2040-CE-OpenStick/blob/main/z_readme%20assets/IMG_3221.jpg.url))
+![image](https://github.com/incursion64/GP2040-CE-OpenStick/blob/main/z_readme%20assets/IMG_3221.jpg.url)
