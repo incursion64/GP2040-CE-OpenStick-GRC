@@ -32,4 +32,4 @@ Also note that i use a stick spacer.  This is not necessary if you want your sti
 At a later date i will offer the build components or pre-built kits on my shop if anyone is interested.  
 https://gameroomcustoms.com/
 
-****use 1/16 clear acrylic over 2mm as genuine samwa buttons did not snapin properly on the 2mm. both clones and geniune work with 1/16 along with a graphic and metal oanel. dwgs will be updated shortly*****
+****use 1/16 clear acrylic over 2mm as genuine Sanwa buttons did not snap in properly on the 2mm. Both clones and geniune work with 1/16 along with a graphic and metal panel. dwgs will be updated shortly*****
