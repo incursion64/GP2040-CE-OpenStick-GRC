@@ -1,4 +1,4 @@
-# GP2040-CE OpenStick by Game Room Customs
+# GP2040-CE OpenStick by Game Room Customs (gameroomcustoms.com) 
  Custom Arcade Fight Stick
 
  The goal here was to design something heavyweight and durable but also offer something that was modular and easy to build and looks nice. 
@@ -28,3 +28,8 @@ If you decide to go with a snap in type button, be mindful that you can work wit
 clone types i had to make sure clips/anchors pushed out all the way so the button is secure. The plastic is 2mm thick in my desing, you may want to consider 1mm.  If using the screw on top
 arcade buttons you can go heavier.  
 Also note that i use a stick spacer.  This is not necessary if you want your stick to sit higher, but i added a 6mm (1/4") thick spacer to set the height where i like it. You could always add stick extensions as well. 
+
+At a later date i will offer the build components or pre-built kits on my shop if anyone is interested.  
+https://gameroomcustoms.com/
+
+****use 1/16 clear acrylic over 2mm as genuine Sanwa buttons did not snap in properly on the 2mm. Both clones and geniune work with 1/16 along with a graphic and metal panel. dwgs will be updated shortly*****
