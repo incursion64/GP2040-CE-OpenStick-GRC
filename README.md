@@ -23,8 +23,8 @@ Included in this repository are all necessary files to process the material.
  - Bill of Materials for what i used
 
 Graphic Template has not been included as you need only import the 2D DXF to Adobe illustrator or preferred program to process your artwork. 
-If you decide to go with a snap in type button, be mindful that you can work with the approx 4mmm thickness. I was able to get Sanwa genuine and clones in there. For the
-clone types i had to make sure clips/anchors pushed out all the way so the button is secure. 
+If you decide to go with a snap in type button, be mindful that you can work with the approx 3-4mm thickness. I was able to get Sanwa genuine and clones in there. For the
+clone types i had to make sure clips/anchors pushed out all the way so the button is secure. 1/16 or 1.6mm clear acrylic is recommended when usinf geniune sanwa buttons. 
 
 Also note that i use a stick spacer.  This is not necessary if you want your stick to sit higher, but i added a 6mm (1/4") thick spacer to set the height where i like it. You could always add stick extensions as well. 
 
